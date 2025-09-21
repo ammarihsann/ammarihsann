@@ -10,7 +10,7 @@ CTF enjoyer, ESP32 tinkerer, and fingerprint-driven projects on the side.
 
 **What I’m into**
 - Network & web security  
-- ESP32 • Embedded systems  
+- Embedded systems  
 - Ethical hacking  
 - Bug hunting  
 
