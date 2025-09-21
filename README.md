@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rysan — Sec ✖ IoT builder
+# 👋 Hi, I’m Ammar — Sec ✖ IoT builder
 
 I break things (safely) and build devices that talk to the cloud.
 CTF enjoyer, ESP32 tinkerer, and fingerprint-driven projects on the side.
