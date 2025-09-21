@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ammar — IoT & Cybersecurity Enthusiast | Network Engineering | Passionate about Ethical Hacking and Embedded Systems
+# 👋 Hi, I’m Ammar — IoT & Cybersecurity Enthusiast · Network Engineering
 
 I break things (safely) and build devices that talk to the cloud.  
 CTF enjoyer, ESP32 tinkerer, and fingerprint-driven projects on the side.
@@ -9,10 +9,10 @@ CTF enjoyer, ESP32 tinkerer, and fingerprint-driven projects on the side.
 - [CTF writeups](https://github.com/ammarihsann/ctf-writeups)
 
 **What I’m into**
-- Network & web security
-- ESP32 • Embedded systems
-- Ethical hacking
-- Bug hunting
+- Network & web security  
+- ESP32 • Embedded systems  
+- Ethical hacking  
+- Bug hunting  
 
 **Now**
 - Always trying to be better than yesterday
